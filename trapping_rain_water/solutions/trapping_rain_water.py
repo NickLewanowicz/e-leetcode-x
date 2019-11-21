@@ -28,3 +28,6 @@ def trappingRainWater(elevationList):
 
 sol = trappingRainWater(exampleInput)
 print(sol)
+
+# this solution is not great since its time complexity is constrained by input values
+# rather than input size.
